@@ -1,0 +1,24 @@
+h1 {
+    background-color: black;
+    color: aqua;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+h2 {
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: lighter;
+    font-style: italic;
+}
+h3 {
+    text-align: right;
+    text-decoration: underline;
+    background-color: lightskyblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 12px;
+}
